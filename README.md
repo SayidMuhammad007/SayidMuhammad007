@@ -7,8 +7,8 @@ I am a back-end software engineer specializing in building high load back-end se
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@sayidmuhammad_7174-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sayidmuhammad_7174)](https://t.me/sukhrobnuraliev) 
-[![Instagram Badge](https://img.shields.io/badge/@sayidmuhammad_7174-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/@sayidmuhammad_7174)](https://www.instagram.com/@sayidmuhammad_7174)
+[![Telegram Badge](https://img.shields.io/badge/@sayidmuhammad_7174-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sayidmuhammad_7174)](https://t.me/sayidmuhammad_7174) 
+[![Instagram Badge](https://img.shields.io/badge/@sayidmuhammad_7174-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sayidmuhammad_7174)](https://www.instagram.com/sayidmuhammad_7174)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
