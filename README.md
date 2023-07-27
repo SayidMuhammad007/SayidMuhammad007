@@ -2,18 +2,18 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP, Laravel, Python, Django. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
-[![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
+[![Telegram Badge](https://img.shields.io/badge/@sayidmuhammad_7174-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sayidmuhammad_7174)](https://t.me/sukhrobnuraliev) 
+[![Instagram Badge](https://img.shields.io/badge/@sayidmuhammad_7174-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/@sayidmuhammad_7174)](https://www.instagram.com/@sayidmuhammad_7174)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
+- :computer: I'm currently working on Laravel & Vue & Django
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
 - :triangular_flag_on_post: I teach code on YouTube
 - :muscle: Do Bodybuilding & Calisthenics
