@@ -38,4 +38,4 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sayidmuhammad007&show_icons=true&theme=gotham" alt="sayidmuhammad007" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhrobnuraliev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="sukhrobnuraliev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayidmuhammad007&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="sayidmuhammad007" /></a> </p>
